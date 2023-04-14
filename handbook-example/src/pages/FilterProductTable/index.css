@@ -1,0 +1,9 @@
+.title{
+    font-weight: bold;
+}
+.price{
+    margin-left: 10px;
+}
+.nonstock{
+    color: red;
+}
