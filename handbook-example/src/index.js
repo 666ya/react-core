@@ -6,11 +6,7 @@ import App from "./api/index";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <StrictMode>
-    <App />
-  </StrictMode>
-
-  // <div>hello</div>
+  <div>hello</div>
   // <React.StrictMode>
   //   <App />
   // </React.StrictMode>
